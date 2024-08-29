@@ -24,6 +24,8 @@ node_modules/
 **/.idea/
 **/artifacts
 
+.env
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
